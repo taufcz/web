@@ -1,0 +1,1 @@
+import{r}from"./app-Sa1RTjqV.js";var e,o,t=r;o=t.createRoot,e=t.hydrateRoot;const c=Object.freeze(Object.defineProperty({__proto__:null,get createRoot(){return o},get hydrateRoot(){return e}},Symbol.toStringTag,{value:"Module"}));export{c};
